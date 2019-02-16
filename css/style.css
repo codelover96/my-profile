@@ -628,6 +628,14 @@ hr{
 	font-weight:400;
 	font-size:15px;
 }
+
+.thank-you-note p{
+    color:#8C8C8C;
+    /*padding: 5px 0 17px;*/
+    font-weight:400;
+    font-size:13px;
+}
+
 footer span.glyphicon.glyphicon-chevron-up {
 	margin: 0 0 0 50%;
 	color:red;
