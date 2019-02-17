@@ -87,7 +87,7 @@ body {
 .navbar-inverse .navbar-brand {
     color: #fff;
 	font-size:2.5em;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	font-weight:bold;
 	text-transform:uppercase;
 }
@@ -220,7 +220,7 @@ body {
 	font-weight: bold;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 	margin: 0;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	padding: 60px 0 20px 0;
 }
 .banner-info p {
@@ -275,7 +275,7 @@ span.line2 {
 .about-me h3 {
 	color:#A1B3A4;
 	font-size:30px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	line-height:25px;
 	font-weight:bold;
 	padding: 67px 0 55px;
@@ -292,7 +292,7 @@ img.img-responsive {
 .mydetails h3 {
 	color:#000;
 	padding: 1em 0;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	font-size:20px;
 	line-height:25px;
 	font-weight:bold;
@@ -330,7 +330,7 @@ img.img-responsive {
 .myskills h3 {
 	color:#000;
 	padding:25px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	font-size:25px;
 	line-height:25px;
 	font-weight:bold;
@@ -350,7 +350,7 @@ img.img-responsive {
 }
 .skill-info h4 {
 	margin-left:6%;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	font-size:18px;
 	line-height:25px;
 	font-weight:bold;
@@ -437,7 +437,7 @@ span.shortline5 {
 .myportfolio h3 {
 	color:#A1B3A4;
 	font-size:30px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	line-height:25px;
 	font-weight:bold;
 	padding: 85px 0 20px;
@@ -457,7 +457,7 @@ span.shortline5 {
 .mygallery h3 {
 	color:#A1B3A4;
 	font-size:30px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	line-height:25px;
 	font-weight:bold;
 	padding: 50px 0 40px;
@@ -491,7 +491,7 @@ span.shortline5 {
 .contact-me h3 {
 	color:#A1B3A4;
 	font-size:30px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	line-height:25px;
 	font-weight:bold;
 	padding: 80px 0 20px;
@@ -557,7 +557,7 @@ textarea.form-control {
 	color:#fff;
 }
 .contact-info h4 {
-	font-family: 'Cinzel', serif;
+	font-family: 'Cormorant Garamond', serif;
 	font-size:20px;
 	line-height:25px;
 	font-weight:bold;
@@ -608,7 +608,7 @@ p.p2 a:hover {
 	color:#A1B3A4;
 }
 .contact-info h5 {
-    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
     line-height: 25px;
     font-weight: bold;
