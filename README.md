@@ -5,7 +5,7 @@ This is the repository of my personal website. I made it public to showcase my w
 It is not intended to be a repository which you can clone and upload for yourself as it contains 
 pesonal information. Though, this project is completely open source and you can definitely fork it,
 change every information related to myself and distribute/upload it on your behalf, considering
-you like the look and feel. You can see it live here![alt text](https://costaspatsarask.tk)
+you like the look and feel. You can see it live [here](https://costaspatsarask.tk)!
 
 Cheers,
 codelover96
